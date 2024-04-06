@@ -32,8 +32,8 @@ The WeatherNow Webpage displays the 5-Day Weather and current Day forecast for a
 # Links
 
 Repo: https://github.com/Maxxxc1/WeatherNow
-Deployed: 
-
+Deployed: [
+](https://maxxxc1.github.io/WeatherNow/)
 # Screenshot
 
 ![screenshot](screenshot.png)
